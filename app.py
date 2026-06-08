@@ -304,3 +304,4 @@ elif menu == "User Profiles":
 
     st.write("### Cart Items")
     st.write(user.cart_items)
+    # ...
