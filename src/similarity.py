@@ -27,3 +27,4 @@ class SimilarityMetrics:
         intersection = len(set1.intersection(set2))
 
         return intersection / union
+    # ...

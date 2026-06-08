@@ -60,3 +60,4 @@ class Trie:
             node = node.children[ch]
 
         return node.product_ids
+    # ....

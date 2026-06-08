@@ -26,3 +26,4 @@ class User:
 
     def add_cart(self, product_id):
         self.cart_items.append(product_id)
+        # ...
