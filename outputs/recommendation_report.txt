@@ -1,0 +1,14 @@
+
+User: Alice
+Dell XPS 15 -> 67.99
+Sony Headphones -> 53.99
+Samsung Monitor -> 52.99
+Standing Desk -> 3.99
+Ergonomic Chair -> 2.49
+
+User: Bob
+Python Crash Course -> 50.59
+Apple MacBook Pro M3 -> 19.99
+Dell XPS 15 -> 17.99
+Sony Headphones -> 3.99
+Standing Desk -> 3.99
